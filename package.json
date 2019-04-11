@@ -1,0 +1,25 @@
+{
+  "name": "friend_finder",
+  "version": "1.0.0",
+  "description": "In this assignent we built a friend matching app. Answer the questions and see which member from Will & Grace is your friend!",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JLB90206/Friend_Finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JLB90206/Friend_Finder/issues"
+  },
+  "homepage": "https://github.com/JLB90206/Friend_Finder#readme"
+}
